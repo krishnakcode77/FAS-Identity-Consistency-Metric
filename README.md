@@ -15,7 +15,9 @@ This project introduces **Face Authenticity Score (FAS)**, a composite reliabili
 The framework combines deep face embeddings, cosine similarity analysis, machine learning verification, and trust calibration into a unified forensic-style evaluation system.
 
 --
+## System Architecture
 
+![Architecture](images/architecture.png)
 ---
 
 ## Problem Statement
