@@ -14,19 +14,7 @@ This project introduces **Face Authenticity Score (FAS)**, a composite reliabili
 
 The framework combines deep face embeddings, cosine similarity analysis, machine learning verification, and trust calibration into a unified forensic-style evaluation system.
 
----
-
-## Authors
-
-- Krishna Kumar
-- Saransh Thakran
-- Deep Khanna
-- Ayush Singh
-
-Department of Electronics and Communication Engineering (ECAM)  
-Netaji Subhas University of Technology (NSUT), New Delhi
-
-Supervisor: **Dr. Aarti Jain**
+--
 
 ---
 
