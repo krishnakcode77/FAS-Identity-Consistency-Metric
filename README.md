@@ -17,7 +17,7 @@ The framework combines deep face embeddings, cosine similarity analysis, machine
 --
 ## System Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](images/architecture.png.png)
 ---
 
 ## Problem Statement
